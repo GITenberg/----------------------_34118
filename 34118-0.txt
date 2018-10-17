@@ -12,7 +12,7 @@ Author: Argyris Eftaliotis
 
 Release Date: October 23, 2010 [EBook #34118]
 
-Language: GR
+Language: Greek
 
 Character set encoding: UTF-8
 
